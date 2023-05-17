@@ -2,9 +2,8 @@
 Module 11 Challenge Submission - Kali Notaras
 
 Solutions can be found in the files:
-
-part_1_mars_news.ipynb
-part_2_mars_weather.ipynb
+ - part_1_mars_news.ipynb
+ - part_2_mars_weather.ipynb
 
 References:
 
